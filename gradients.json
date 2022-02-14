@@ -1532,5 +1532,9 @@
     {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
+    },
+    {
+        "name": "This year",
+        "colors": ["#edc371", "#ea435d"]
     }
 ]
